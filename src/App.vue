@@ -37,6 +37,11 @@
   </section>
 </template>
 
+// ***************************************************************************
+// Aufgaben:  1. toggleFavorite als Event in FriendContact einbauen
+//            2. deleteContact in FriendContact einbauen
+              3. Übung für Schüler: Eigene Komponente NewFriend.vue erstellen
+// ***************************************************************************
 <script>
 import FriendContact from "./components/FriendContact.vue";
 
